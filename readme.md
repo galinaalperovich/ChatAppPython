@@ -1,4 +1,4 @@
-# Fridge Roulette 
+# Chat App with Python
 Building a simple app with [Flet](https://flet.dev/) (Flutter apps with Python).
 
 Tutorial: https://flet.dev/docs/tutorials/python-realtime-chat 
